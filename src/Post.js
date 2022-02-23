@@ -18,5 +18,3 @@ function Post({ username, caption, imageUrl, userImage }) {
 }
 
 export default Post;
-
-//38:00
